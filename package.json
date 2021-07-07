@@ -16,7 +16,7 @@
     "@types/iconv-lite": "^0.0.1",
     "@types/jsonwebtoken": "^8.5.0",
     "@types/mocha": "^8.2.2",
-    "@types/morgan": "^1.9.2",
+    "@types/morgan": "^1.9.3",
     "@types/node": "^16.0.0",
     "@types/sinon": "^10.0.2",
     "@types/supertest": "^2.0.11",
